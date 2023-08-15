@@ -1,0 +1,11 @@
+.card{
+    width: 350px;
+    height: auto;
+    margin: 15px;
+}
+
+.card:hover{
+    width: 400px;
+    height: auto;
+    margin: 15px;
+}
